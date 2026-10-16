@@ -1,0 +1,186 @@
+{
+  "empresas": [
+    {
+      "id": "long-hat-house",
+      "nome": "Long Hat House",
+      "localizacao": "Belo Horizonte - MG",
+      "banner": "https://cdn.akamai.steamstatic.com/steam/apps/450090/page_bg_generated_v6b.jpg",
+      "logo": "https://via.placeholder.com/100/121212/ff9900?text=LHH",
+      "sobre": "<p>  A Long Hat House é um estúdio brasileiro independente de desenvolvimento de jogos eletrônicos, fundado em Belo Horizonte, Minas Gerais, por João Brant e Lucas Mattos. A empresa surgiu da paixão dos fundadores por programação e videogames, com o objetivo de criar jogos originais e conquistar espaço no mercado de jogos digitais. </p> <p> O estúdio ficou conhecido principalmente pelo desenvolvimento de Dandara, lançado em 2018. O jogo se destaca por sua jogabilidade inovadora, na qual a personagem se movimenta saltando entre paredes, pisos e tetos, além de apresentar referências à cultura e à história brasileira. O título recebeu reconhecimento internacional e ajudou a divulgar o trabalho de desenvolvedores brasileiros. </p> <p> A Long Hat House também desenvolveu outros projetos, como Magenta Arcade, demonstrando interesse em experimentar diferentes estilos e mecânicas de jogo. Seu trabalho combina programação, criatividade, design e arte para proporcionar experiências diferenciadas aos jogadores. Dessa forma, o estúdio é um exemplo da importância das empresas independentes para o crescimento da indústria brasileira de games e mostra que equipes pequenas também podem criar jogos de destaque internacional.",
+      "email": "contato@longhathouse.com",
+      "links": { "website": "#", "twitter": "#", "instagram": "#", "linkedin": "#" }
+    },
+    {
+      "id": "behold-studios",
+      "nome": "Behold Studios",
+      "localizacao": "Brasília - DF",
+      "banner": "https://cdn.akamai.steamstatic.com/steam/apps/251130/page_bg_generated_v6b.jpg",
+      "logo": "https://via.placeholder.com/100/121212/ff9900?text=Behold",
+      "sobre": "<p> A Behold Studios é um estúdio independente de desenvolvimento de jogos eletrônicos fundado em 2009, em Brasília, no Distrito Federal, por profissionais apaixonados por programação e videogames. A empresa começou com o objetivo de criar jogos originais e conquistou reconhecimento no mercado nacional e internacional, tornando-se conhecida por combinar criatividade, humor e referências à cultura dos jogos clássicos. </p> <p> Entre seus principais títulos estão Knights of Pen & Paper, um RPG inspirado nas tradicionais partidas de RPG de mesa; Chroma Squad, um jogo inspirado nas séries japonesas de equipes de heróis, como Power Rangers; Galaxy of Pen & Paper, que mistura RPG e ficção científica; e Out of Space, um jogo cooperativo em que os jogadores precisam administrar uma nave espacial e trabalhar juntos para superar desafios. </p> <p> A Behold Studios se destaca por desenvolver jogos com identidade própria e alcançar jogadores de diferentes países. Seus projetos demonstram como um estúdio independente pode transformar ideias criativas em produtos reconhecidos internacionalmente. Embora tenha surgido no Brasil, a empresa também estabeleceu presença no Canadá, ampliando suas oportunidades no mercado global. ",
+      "email": "contact@beholdstudios.com.br",
+      "links": { "website": "#", "twitter": "#", "instagram": "#", "linkedin": "#" }
+    },
+    {
+      "id": "studio-pixel-punk",
+      "nome": "Studio Pixel Punk",
+      "localizacao": "São Paulo - SP",
+      "banner": "https://cdn.akamai.steamstatic.com/steam/apps/1062110/page_bg_generated_v6b.jpg",
+      "logo": "https://via.placeholder.com/100/121212/ff9900?text=SPP",
+      "sobre": " <p>A Studio Pixel Punké um estúdio brasileiro independente de desenvolvimento de jogos eletrônicos, fundado em 2017 por Tiani Pixel e Fernanda Dias. A empresa se destaca pela criação de jogos originais, combinando programação, arte, música e narrativas envolventes. Seu principal objetivo é desenvolver experiências criativas que ofereçam aos jogadores novas formas de explorar e interagir com os mundos virtuais. </p> <p> O estúdio ficou conhecido principalmente por *UNSIGHTED*, lançado em 2021. O jogo mistura ação, exploração e elementos de RPG, apresentando um mundo futurista habitado por androides. Um dos seus principais diferenciais é a presença de um limite de tempo que influencia as decisões do jogador e o destino dos personagens. O título recebeu críticas positivas e conquistou reconhecimento internacional, colocando o estúdio em destaque no cenário independente. </p> <p> Atualmente, outro projeto conhecido da equipe é *Abyss X Zero*, um jogo de ação e exploração em 3D anunciado em 2024. A Studio Pixel Punk representa a força dos pequenos estúdios brasileiros, demonstrando que equipes independentes podem desenvolver jogos inovadores e conquistar espaço no mercado internacional por meio da criatividade, da dedicação e de ideias originais.",
+      "email": "hello@studiopixelpunk.com",
+      "links": { "website": "#", "twitter": "#", "instagram": "#", "linkedin": "#" }
+    },
+    {
+      "id": "pulsatrix-studios",
+      "nome": "Pulsatrix Studios",
+      "localizacao": "São Paulo - SP",
+      "banner": "https://cdn.akamai.steamstatic.com/steam/apps/1298140/page_bg_generated_v6b.jpg",
+      "logo": "https://via.placeholder.com/100/121212/ff9900?text=Pulsatrix",
+      "sobre": "<p> A Pulsatrix Studios é um estúdio brasileiro independente de desenvolvimento de jogos eletrônicos, fundado em 2019 e sediado em São Paulo. A empresa foi criada por profissionais de diferentes áreas, como programação, design, arte, música e animação, que compartilhavam o objetivo de desenvolver jogos originais e conquistar espaço no mercado internacional. O estúdio se especializa principalmente em jogos de terror psicológico e ficção científica, buscando criar experiências imersivas com histórias envolventes, ambientes detalhados e desafios para os jogadores. </p> <p> Seu primeiro grande destaque foi FOBIA – St. Dinfna Hotel, lançado em 2022. O jogo acompanha um jornalista que investiga acontecimentos misteriosos em um hotel, combinando exploração, resolução de enigmas e elementos de terror. Em 2025, a empresa lançou A.I.L.A., um jogo de terror em que uma inteligência artificial cria experiências virtuais assustadoras. A Pulsatrix também desenvolve novos projetos, como *Other Side Tapes: Favela*, que explora o terror em um cenário brasileiro. </p> <p> Um dos diferenciais da Pulsatrix Studios é o uso de tecnologia e criatividade para desenvolver jogos com qualidade visual e narrativas marcantes. A empresa trabalha de forma remota, reunindo profissionais em uma equipe multidisciplinar. Sua trajetória demonstra que estúdios brasileiros independentes podem desenvolver jogos competitivos internacionalmente e contribuir para o crescimento da indústria nacional de games.",
+      "email": "contato@pulsatrixstudios.com",
+      "links": { "website": "#", "twitter": "#", "instagram": "#", "linkedin": "#" }
+    },
+    {
+      "id": "joymasher",
+      "nome": "JoyMasher",
+      "localizacao": "Curitiba - PR",
+      "banner": "https://cdn.akamai.steamstatic.com/steam/apps/609110/page_bg_generated_v6b.jpg",
+      "logo": "https://via.placeholder.com/100/121212/ff9900?text=JoyMasher",
+      "sobre": " <p> A JoyMasher é um estúdio brasileiro independente de desenvolvimento de jogos eletrônicos, fundado em 2012 por Danilo Dias e Thais Weiller, com sede em Curitiba, no Paraná. A empresa tem como principal característica a criação de jogos inspirados nos clássicos dos videogames das décadas de 1980 e 1990, utilizando gráficos em pixel art, trilhas sonoras retrô e jogabilidade desafiadora. Seu objetivo é recuperar o estilo dos jogos antigos, combinando essas características com recursos e melhorias modernas. </p> <p> Entre seus principais jogos estão Oniken, Odallus: The Dark Call, Blazing Chrome e Vengeful Guardian: Moonrider. Um dos maiores destaques do estúdio é *Blazing Chrome*, lançado em 2019, que apresenta gráficos retrô e uma experiência de ação inspirada em clássicos dos videogames. Já *Vengeful Guardian: Moonrider*, lançado em 2023, é um jogo de plataforma que combina ação, ficção científica e referências aos jogos dos anos 1990. </p> <p> A JoyMasher se destaca pela dedicação à estética retrô e pela capacidade de transformar referências dos jogos clássicos em experiências modernas. Sua trajetória demonstra que estúdios independentes brasileiros podem conquistar reconhecimento internacional ao investir em criatividade, identidade visual e paixão pelo desenvolvimento de games.",
+      "email": "contact@joymasher.com",
+      "links": { "website": "#", "twitter": "#", "instagram": "#", "linkedin": "#" }
+    },
+    {
+      "id": "dumativa",
+      "nome": "Dumativa",
+      "localizacao": "Rio de Janeiro - RJ",
+      "banner": "https://cdn.akamai.steamstatic.com/steam/apps/389170/page_bg_generated_v6b.jpg",
+      "logo": "https://via.placeholder.com/100/121212/ff9900?text=Dumativa",
+      "sobre": " <p>A Dumativa é um estúdio brasileiro independente de desenvolvimento de jogos eletrônicos, localizado no Rio de Janeiro. Fundada em 2012, a empresa reúne profissionais de áreas como programação, arte, música e roteiro para criar jogos que combinam criatividade, humor e histórias envolventes. Uma das características do estúdio é o uso de gráficos retrô e elementos musicais, misturando referências aos jogos clássicos com ideias modernas.  </p> <p> Entre seus principais jogos está A Lenda do Herói, desenvolvido em parceria com os Castro Brothers. O jogo se destaca por apresentar uma aventura de plataforma em que as ações do personagem são acompanhadas por músicas e narrações dinâmicas. Outro título importante é *Enigma do Medo*, lançado em 2024 em parceria com o criador de conteúdo Cellbit. O jogo mistura investigação, exploração e terror, acompanhando a personagem Mia em uma investigação paranormal. A empresa também desenvolve projetos como *Bagdex* e *Rasek*.  </p> <p>A Dumativa se destaca no cenário nacional por utilizar diferentes formas de financiamento, incluindo campanhas de financiamento coletivo, para viabilizar seus projetos. Seu trabalho demonstra como estúdios brasileiros independentes podem transformar ideias criativas em jogos reconhecidos pelo público e alcançar espaço no mercado internacional.",
+      "email": "contato@dumativa.com.br",
+      "links": { "website": "#", "twitter": "#", "instagram": "#", "linkedin": "#" }
+    }
+  ],
+  "jogos": [
+    {
+      "id": 1,
+      "nome": "Dandara: Trials of Fear",
+      "estudioId": "long-hat-house",
+      "estudioNome": "Long Hat House",
+      "genero": "Plataforma",
+      "plataforma": "Console",
+      "ano": 2018,
+      "destaque": false,
+      "descricao": "Um metroidvania 2D único cheio de criaturas místicas e exploração sem limites. Desafie a gravidade saltando por pisos e tetos.",
+      "imagem": "https://cdn.akamai.steamstatic.com/steam/apps/450090/header.jpg"
+    },
+    {
+      "id": 2,
+      "nome": "Chroma Squad",
+      "estudioId": "behold-studios",
+      "estudioNome": "Behold Studios",
+      "genero": "Estratégia",
+      "plataforma": "PC",
+      "ano": 2015,
+      "destaque": false,
+      "descricao": "Um RPG tático sobre cinco dublês que decidem largar seus empregos e criar seu próprio estúdio de TV de Super Sentai.",
+      "imagem": "https://cdn.akamai.steamstatic.com/steam/apps/251130/header.jpg"
+    },
+    {
+      "id": 3,
+      "nome": "Unsighted",
+      "estudioId": "studio-pixel-punk",
+      "estudioNome": "Studio Pixel Punk",
+      "genero": "RPG",
+      "plataforma": "PC",
+      "ano": 2021,
+      "destaque": true,
+      "descricao": "O tempo está passando. Explore Arcadia de forma não-linear e lute para salvar seus amigos Autômatos antes que eles se transformem em UNSIGHTED.",
+      "imagem": "https://cdn.akamai.steamstatic.com/steam/apps/1062110/header.jpg"
+    },
+    {
+      "id": 4,
+      "nome": "Fobia - St. Dinfna Hotel",
+      "estudioId": "pulsatrix-studios",
+      "estudioNome": "Pulsatrix Studios",
+      "genero": "Terror",
+      "plataforma": "Console",
+      "ano": 2022,
+      "destaque": false,
+      "descricao": "Explore um hotel decadente em diferentes linhas do tempo e sobreviva a uma história assustadora cheia de puzzles e combates.",
+      "imagem": "https://cdn.akamai.steamstatic.com/steam/apps/1298140/header.jpg"
+    },
+    {
+      "id": 5,
+      "nome": "Blazing Chrome",
+      "estudioId": "joymasher",
+      "estudioNome": "JoyMasher",
+      "genero": "Ação",
+      "plataforma": "PC",
+      "ano": 2019,
+      "destaque": false,
+      "descricao": "Em Blazing Chrome, as máquinas dominam o mundo e os poucos humanos restantes estão à beira da aniquilação total. Pura ação run-and-gun.",
+      "imagem": "https://cdn.akamai.steamstatic.com/steam/apps/609110/header.jpg"
+    },
+    {
+      "id": 6,
+      "nome": "A Lenda do Herói",
+      "estudioId": "dumativa",
+      "estudioNome": "Dumativa",
+      "genero": "Plataforma",
+      "plataforma": "PC",
+      "ano": 2016,
+      "destaque": false,
+      "descricao": "Um jogo de plataforma onde a trilha sonora se adapta dinamicamente às ações do jogador, narrando de forma cantada todos os seus movimentos.",
+      "imagem": "https://cdn.akamai.steamstatic.com/steam/apps/389170/header.jpg"
+    },
+    {
+      "id": 7,
+      "nome": "Knights of Pen and Paper",
+      "estudioId": "behold-studios",
+      "estudioNome": "Behold Studios",
+      "genero": "RPG",
+      "plataforma": "Mobile",
+      "ano": 2012,
+      "destaque": false,
+      "descricao": "Assuma o papel de jogadores em uma sessão de RPG de mesa tradicional. Controle tanto os jogadores quanto o Mestre!",
+      "imagem": "https://cdn.akamai.steamstatic.com/steam/apps/231740/header.jpg"
+    },
+    {
+      "id": 8,
+      "nome": "Odallus: The Dark Call",
+      "estudioId": "joymasher",
+      "estudioNome": "JoyMasher",
+      "genero": "Ação",
+      "plataforma": "PC",
+      "ano": 2015,
+      "destaque": false,
+      "descricao": "Um jogo de exploração e ação inspirado nos clássicos 8-bits de fantasia sombria.",
+      "imagem": "https://cdn.akamai.steamstatic.com/steam/apps/319480/header.jpg"
+    },
+    {
+      "id": 9,
+      "nome": "Shieldmaiden",
+      "estudioId": "dumativa",
+      "estudioNome": "Dumativa",
+      "genero": "Ação",
+      "plataforma": "PC",
+      "ano": 2020,
+      "destaque": false,
+      "descricao": "Em um mundo cyberpunk neon pós-apocalíptico, controle a Shieldmaiden para salvar sua irmã desaparecida.",
+      "imagem": "https://cdn.akamai.steamstatic.com/steam/apps/1222210/header.jpg"
+    },
+    {
+      "id": 10,
+      "nome": "Out of Space",
+      "estudioId": "behold-studios",
+      "estudioNome": "Behold Studios",
+      "genero": "Simulação",
+      "plataforma": "Console",
+      "ano": 2021,
+      "destaque": false,
+      "descricao": "Um jogo cooperativo multiplayer sobre viver junto em uma casa no espaço sideral com alienígenas bagunceiros.",
+      "imagem": "https://cdn.akamai.steamstatic.com/steam/apps/400080/header.jpg"
+    }
+  ]
+}

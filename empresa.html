@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Gamedin - Detalhes da Empresa</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <!-- CABEÇALHO -->
+  <header class="header-principal">
+    <div class="logo">
+      <span class="icon"> </span>
+      <strong>[Logo Gamedin]</strong>
+    </div>
+    <nav class="nav-links">
+      <a href="index.html" class="nav-item">Catálogo</a>
+      <a href="empresas.html" class="nav-item active">Empresas</a>
+    </nav>
+    <div class="search-box">
+      <span class="search-icon"> </span>
+      <input type="text" placeholder="Buscar...">
+    </div>
+  </header>
+  <!-- CONTEÚDO DA EMPRESA -->
+  <main class="container">
+    <div class="empresa-wrapper">
+      <!-- BANNER -->
+      <div class="banner-container">
+        <img id="empresaBanner" src="" alt="Banner da Empresa">
+      </div>
+      <!-- CABEÇALHO DA EMPRESA -->
+      <div class="empresa-header-card">
+        <img id="empresaLogo" class="empresa-logo" src="" alt="Logo da Empresa">
+        <div class="empresa-info">
+          <h2 id="empresaNome">Nome da Empresa</h2>
+          <p id="empresaLocalizacao" class="localizacao">Localização: -</p>
+          <div class="social-links" id="empresaLinks">
+            <a id="linkWebsite" href="#" target="_blank">Website</a> |
+            <a id="linkTwitter" href="#" target="_blank">Twitter/X</a> |
+            <a id="linkInstagram" href="#" target="_blank">Instagram</a> |
+            <a id="linkLinkedin" href="#" target="_blank">LinkedIn</a>
+          </div>
+        </div>
+      </div>
+      <!-- SOBRE -->
+      <section class="secao-detalhe">
+        <h3>[ Sobre a Empresa ]</h3>
+        <p id="empresaSobre">Carregando informações...</p>
+      </section>
+      <!-- JOGOS DESENVOLVIDOS -->
+      <section class="secao-detalhe">
+        <h3>[ Jogos Desenvolvidos ]</h3>
+        <div id="gridJogosEmpresa" class="grid-jogos">
+          <!-- Injetado via JS -->
+        </div>
+      </section>
+      <!-- CONTATO / SUPORTE -->
+      <section class="secao-detalhe">
+        <h3>[ Contato / Suporte ]</h3>
+        <p>E-mail: <a id="empresaEmail" href="mailto:">contato@empresa.com.br</a></p>
+      </section>
+    </div>
+  </main>
+  <script src="script.js"></script>
+</body>
+</html>

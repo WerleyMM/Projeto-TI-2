@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Gamedin - Catálogo de Jogos Indies Brasileiros</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <!-- CABEÇALHO -->
+  <header class="header-principal">
+    <div class="logo">
+      <span class="icon"> </span>
+      <strong>[Logo Gamedin]</strong>
+    </div>
+    <nav class="nav-links">
+      <a href="index.html" class="nav-item active">Catálogo</a>
+      <a href="empresas.html" class="nav-item">Empresas</a>
+    </nav>
+    <div class="search-box">
+      <span class="search-icon"> </span>
+      <input type="text" id="inputBusca" placeholder="Buscar...">
+    </div>
+  </header>
+  <!-- CONTEÚDO PRINCIPAL -->
+  <main class="container">
+    <h1 class="page-title">CATÁLOGO DE JOGOS INDIES BRASILEIROS</h1>
+    <!-- CARD CENTRAL DE DESTAQUE -->
+    <section id="destaqueCentral" class="destaque-container">
+      <!-- Injetado via JS -->
+    </section>
+    <!-- BARRA DE FILTROS -->
+    <section class="filtros-container">
+      <label>Filtros:</label>
+      <select id="filtroGenero">
+        <option value="Todos">Gênero: Todos</option>
+        <option value="Plataforma">Plataforma</option>
+        <option value="Terror">Terror</option>
+        <option value="Ação">Ação</option>
+        <option value="Estratégia">Estratégia</option>
+        <option value="RPG">RPG</option>
+        <option value="Simulação">Simulação</option>
+      </select>
+      <select id="filtroPlataforma">
+        <option value="Todas">Plataforma: Todas</option>
+        <option value="PC">PC</option>
+        <option value="Console">Console</option>
+        <option value="Mobile">Mobile</option>
+      </select>
+      <select id="ordenacao">
+        <option value="az">Ordenar: Nome A-Z</option>
+        <option value="za">Ordenar: Nome Z-A</option>
+      </select>
+    </section>
+    <!-- GRID DE JOGOS -->
+    <section id="gridJogos" class="grid-jogos">
+      <!-- Injetado via JS -->
+    </section>
+    <!-- PAGINAÇÃO -->
+    <div class="paginacao" id="paginacao">
+      <!-- Injetado via JS -->
+    </div>
+  </main>
+  <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,55 @@
+* { box-sizing: border-box; margin: 0; padding: 0; font-family: Arial, Helvetica, sans-serif; }
+body { background-color: #0a0a0a; color: #f0f0f0; }
+/* HEADER */
+.header-principal { display: flex; justify-content: space-between; align-items: center; padding: 15px 30px; background-color: #ff9900; border-bottom: 2px solid #cc7a00; color: #121212; }
+.logo { display: flex; align-items: center; gap: 10px; font-size: 1.2rem; font-weight: bold; }
+.nav-links { display: flex; gap: 15px; }
+.nav-item { text-decoration: none; color: #121212; padding: 6px 16px; border: 1px solid #121212; border-radius: 6px; font-weight: bold; transition: 0.2s; }
+.nav-item:hover { background-color: rgba(0, 0, 0, 0.1); }
+.nav-item.active { background-color: #121212; color: #ff9900; border: 1px solid #121212; }
+.search-box { display: flex; align-items: center; border: 1px solid #121212; border-radius: 6px; padding: 5px 10px; background-color: #fff; }
+.search-box input { border: none; outline: none; padding-left: 8px; font-size: 0.9rem; color: #121212; }
+/* CONTAINER */
+.container { max-width: 1100px; margin: 30px auto; padding: 20px; background: #1a1a1a; border: 2px solid #ff9900; border-radius: 8px; }
+.page-title { text-align: center; margin-bottom: 20px; font-size: 1.8rem; letter-spacing: 1px; color: #ff9900; }
+.filtros-container { display: flex; align-items: center; gap: 15px; margin-bottom: 30px; flex-wrap: wrap; color: #ff9900; }
+.filtros-container select { padding: 6px 12px; border: 1px solid #ff9900; border-radius: 6px; background-color: #121212; color: #ff9900; cursor: pointer; font-weight: bold; }
+/* CARD DESTAQUE */
+.destaque-container { margin-bottom: 40px; }
+.card-destaque { display: flex; background-color: #ff9900; border: 2px solid #cc7a00; border-radius: 12px; overflow: hidden; box-shadow: 0 8px 16px rgba(0,0,0,0.7); color: #121212; }
+.card-destaque img { width: 55%; object-fit: cover; border-right: 4px solid #121212; }
+.destaque-info { padding: 30px; display: flex; flex-direction: column; justify-content: center; width: 45%; }
+.badge-destaque { display: inline-block; background-color: #121212; color: #ff9900; padding: 5px 12px; border-radius: 20px; font-weight: 900; font-size: 0.8rem; margin-bottom: 15px; text-transform: uppercase; align-self: flex-start; }
+.destaque-info h2 { font-size: 2rem; font-weight: 900; margin-bottom: 10px; }
+.destaque-info p { font-size: 1.05rem; margin-bottom: 10px; line-height: 1.5; font-weight: bold; }
+.destaque-info .btn-detalhes { margin-top: 20px; align-self: flex-start; padding: 10px 20px; font-size: 1.1rem; }
+/* GRID JOGOS */
+.grid-jogos { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 20px; }
+.card-jogo { border: 2px solid #cc7a00; border-radius: 8px; padding: 12px; background-color: #ff9900; color: #121212; display: flex; flex-direction: column; gap: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.5); }
+.card-jogo img { width: 100%; height: 140px; object-fit: cover; border: 2px solid #121212; border-radius: 4px; }
+.card-jogo h3 { font-size: 1.2rem; font-weight: 900; }
+.card-jogo p { font-size: 0.95rem; font-weight: bold; }
+.card-jogo .desc-curta { font-weight: normal; font-size: 0.85rem; margin-bottom: 10px; }
+.btn-detalhes { display: inline-block; margin-top: auto; padding: 8px; text-align: center; border: 2px solid #121212; border-radius: 6px; text-decoration: none; color: #ff9900; font-weight: bold; background-color: #121212; transition: 0.3s; }
+.btn-detalhes:hover { background-color: #333; color: #ff9900; }
+/* PAGINAÇÃO */
+.paginacao { display: flex; justify-content: center; align-items: center; gap: 8px; margin-top: 30px; }
+.btn-page { padding: 6px 12px; border: 1px solid #ff9900; background-color: #121212; color: #ff9900; cursor: pointer; border-radius: 4px; font-weight: bold; }
+.btn-page.active, .btn-page:hover { background-color: #ff9900; color: #121212; }
+.btn-page:disabled { opacity: 0.5; cursor: not-allowed; }
+/* PÁGINA DE EMPRESA */
+.banner-container img { width: 100%; height: 250px; object-fit: cover; border: 2px solid #ff9900; border-radius: 6px; }
+.empresa-header-card { display: flex; align-items: center; gap: 20px; border: 2px solid #ff9900; padding: 15px; margin-top: -40px; margin-bottom: 25px; background-color: #ff9900; color: #121212; position: relative; border-radius: 6px; box-shadow: 0 4px 8px rgba(0,0,0,0.5); z-index: 10; width: 90%; margin-left: auto; margin-right: auto; }
+.empresa-logo { width: 100px; height: 100px; border-radius: 6px; border: 2px solid #121212; object-fit: cover; background: #fff; }
+.empresa-info h2 { font-size: 1.6rem; font-weight: 900; }
+.localizacao { font-size: 0.95rem; color: #222; font-weight: bold; margin: 4px 0; }
+.social-links a { color: #0044cc; font-weight: bold; text-decoration: none; font-size: 0.9rem; }
+.secao-detalhe { margin-bottom: 25px; }
+.secao-detalhe h3 { font-size: 1.2rem; margin-bottom: 10px; color: #ff9900; border-bottom: 1px solid #ff9900; padding-bottom: 5px; }
+.secao-detalhe p { line-height: 1.6; }
+.secao-detalhe a { color: #ff9900; text-decoration: none; font-weight: bold; }
+@media (max-width: 768px) {
+  .card-destaque { flex-direction: column; }
+  .card-destaque img { width: 100%; height: 200px; border-right: none; border-bottom: 4px solid #121212; }
+  .destaque-info { width: 100%; }
+}
